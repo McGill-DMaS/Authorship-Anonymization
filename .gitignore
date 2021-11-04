@@ -1,0 +1,8 @@
+two_sets_em_model/saved*
+*.pyc
+*.log
+*.txt
+*.json
+*sub_config.py
+*.zip
+sumi*
