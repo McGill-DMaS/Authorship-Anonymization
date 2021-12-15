@@ -1,6 +1,8 @@
 # Authorship Anonymization through Differetial Privacy
 
-This is the source code of paper: [ER-AE: Differentially Private Text Generation for Authorship Anonymization](https://arxiv.org/abs/1907.08736)
+This is the source code of our paper:
+
+H. Bo, S. H. H. Ding, B. C. M. Fung, and F. Iqbal. [ER-AE: Differentially private text generation for authorship anonymization](http://dmas.lab.mcgill.ca/fung/pub/BDFI21naacl_preprint.pdf). In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pages 3997-4007, online, June 2021. Association for Computational Linguistics.
 
 Requirements:
 ```
